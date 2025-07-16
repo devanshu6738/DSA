@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1035-cousins-in-binary-tree](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

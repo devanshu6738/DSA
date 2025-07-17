@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Tree
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->

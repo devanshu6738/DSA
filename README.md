@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -76,5 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

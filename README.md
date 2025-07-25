@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Tree
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

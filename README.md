@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->

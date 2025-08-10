@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
@@ -115,9 +116,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->

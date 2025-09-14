@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

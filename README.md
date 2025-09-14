@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/devanshu6738/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/devanshu6738/Leetcode-DSA/tree/master/2728-sum-in-a-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devanshu6738/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

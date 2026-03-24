@@ -1,0 +1,18 @@
+// Given a binary string s. You have to count the number of substrings that start and end with 1.
+
+// Examples:
+
+// Input: s = "1111"
+// Output: 6
+// Explanation: There are 6 substrings from the given string. They are "11", "11", "11", "111", "111", "1111".
+// Input: s = "01101"
+// Output: 3
+// Explanation: There are 3 substrings from the given string. They are "11", "101", "1101".
+
+long long binarySubstring(char s[]) {
+    long long n=0;
+    for (int i=0; s[i]!='\0';i++){
+        if (s[i]=='1') n++;
+    }
+     return (n*(n-1))/2;
+}
